@@ -54,7 +54,7 @@ pip install pandas tensorflow numpy requests scikit-image matplotlib PySimpleGUI
 
 If you want to review processing logs, you can click "View Logs" to open the log viewer window(currently under development).
 
-##Application in Action
+## Application in Action
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Roon311/LightingProductClassifier/assets/75309751/02ed3c55-d11a-40af-ac8d-6156ad81724f" style="width: 45%;">
